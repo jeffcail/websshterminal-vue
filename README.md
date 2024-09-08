@@ -1,4 +1,11 @@
-# web
+# websshterminal-vue
+
+<a href="https://github.com/jeffcail/websshterminal-vue/releases">
+    <img src="https://img.shields.io/github/release/websshterminal-vue/releases.svg" alt="GitHub release">
+  </a>
+   <a href="https://github.com/jeffcail/websshterminal-vue/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
+  </a>
 
 ## Project setup
 ```
